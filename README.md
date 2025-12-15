@@ -1,0 +1,3 @@
+  This project was completed during the Fall 2025 semester at WSU. While the game is not fully finished, we successfully developed a game engine from scratch using Java. I served as one of the two lead developers. Outside of class, I had to conceptualizing the game,
+designing the first level, and preparing a pitch for the course. Throughout the semester, all team members contributed to the development of the engine. My specific contributions included implementing the SamuraiBoss, Collectibles, Chests, Coins, and Keys classes, 
+as well as assisting with hitbox functionality. As a lead developer, I also helped debug team members’ code and oversaw the integration of their contributions.
